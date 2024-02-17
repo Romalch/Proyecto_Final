@@ -1,0 +1,3 @@
+Respuesta
+
+* El problema principal es que tengan que hacer las cotizaciones a mano, esto no les da suficiente tiempo para realizar todas las cotizaciones a diario, las diferentes condiciones que se deben evaluar, tales como, si es mayor de edad, si esta casado, si tiene hijos, los calculos que se deben hacer derivados de los resultados de las condiciones, hacen que el proceso sea lento y lleve a la perdida de clientes.

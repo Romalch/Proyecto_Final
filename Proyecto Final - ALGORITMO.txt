@@ -1,0 +1,24 @@
+ALGORITMO
+ 1.  Establecer monto base
+ 2.	 Establecer recargo por rango de edad para el asegurado
+ 3.  Establecer recargo por estar casado y la edad del conyugue
+ 4.  Establecer recargo por hijo
+ 5.  Establecer valor a 0 para todos los recargos y precio final
+ 6.  Preguntar nombre
+ 7.  Preguntar edad
+ 7.  Si es mayor de edad (mayor o igual que 18 años)
+ 8.		Calcular recargo por rango de edad del asegurado
+ 9.		Determinar el estado civil (casado / soltero)
+10. 	SI es casado		
+11.			Obtener la edad del conyugue
+12.			Calcular el recargo que corresponde por la edad del conyugue
+13.		Determinar si tiene hijos
+14.		Si tiene hijos
+15.			Preguntar cuantos hijos tiene
+18.			Calcular recargo por hijos
+19.		Calcular total de recargos (sumar todos los recargos)
+20.		Calcular total de la propuesta (sumar precio base más recargos)
+21.     Presentar propuesta.
+22.  SI no es mayor de edad
+23.		Informar que no califica para una propuesta.
+24.  Terminar proceso
