@@ -15,7 +15,7 @@ var hijos_recargo = 0.2 ; // 20%
 
 //Valor de los Recargos 
 var recargo = 0 ;
-var regargo_casado = 0 ;
+var recargo_casado = 0 ;
 var recargo_hijos = 0 ;
 var recargo_total = 0 ;
 //edad del conyugue
